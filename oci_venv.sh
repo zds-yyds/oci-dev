@@ -35,6 +35,8 @@ chmod -R 777 "$target_directory"
 # Change the current directory to the target directory
 cd "$target_directory"
 
+chmod +x begin.sh
+
 # Install 'python3-venv' package
 apt install python3-venv
 
