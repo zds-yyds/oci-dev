@@ -48,6 +48,7 @@ source venv/bin/activate
 
 # Install the 'oci' package using pip
 pip install oci==2.126.4
+pip install forex-python
 
 # Exit the virtual environment
 deactivate
