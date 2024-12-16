@@ -49,6 +49,7 @@ source venv/bin/activate
 # Install the 'oci' package using pip
 pip install oci==2.126.4
 pip install currencyconverter
+pip install pandas
 
 # Exit the virtual environment
 deactivate
