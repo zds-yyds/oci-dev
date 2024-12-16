@@ -50,6 +50,7 @@ source venv/bin/activate
 pip install oci==2.126.4
 pip install currencyconverter
 pip install pandas
+pip install openpyxl
 
 # Exit the virtual environment
 deactivate
